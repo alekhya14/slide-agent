@@ -3,3 +3,4 @@ pydantic
 python-pptx
 tenacity
 rich
+python-dotenv
